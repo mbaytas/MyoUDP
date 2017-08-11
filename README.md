@@ -1,6 +1,8 @@
 # MyoUDP
 Console app for streaming from Myo armbands over UDP.
 
+Derived from [MyoSharp](https://github.com/tayfuzun/MyoSharp) examples.
+
 ## Dependencies
 
 Requires [MyoSharp](https://github.com/tayfuzun/MyoSharp).
