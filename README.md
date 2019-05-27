@@ -1,4 +1,7 @@
 # MyoUDP
+
+[![stable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges)
+
 Console app for streaming from Myo armbands over UDP.
 
 Derived from [MyoSharp](https://github.com/tayfuzun/MyoSharp) examples.
